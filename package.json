@@ -13,7 +13,7 @@
 	},
 	"license": "MIT",
 	"author": "hugoalh",
-	"main": "main.js",
+	"main": "lib/main.js",
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/hugoalh-studio/NodeJS.MoreMethod.git"
