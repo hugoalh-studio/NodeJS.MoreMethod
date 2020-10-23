@@ -22,19 +22,12 @@ Send an email to anyone who listed in here (click the link to obtain the email a
 
 - [hugoalh](https://github.com/hugoalh)
 
-### Content
+### Suggested Content List
 
-Please include these content(s) in the email!
-
-#### Title
-
+- Your GitHub account username (e.g.: `@octocat`)
 - Project index (mostly start with `hugoalh-studio/`)
-
-#### Body
-
-- Your GitHub account username (e.g.: `@xxxx`)
 - Affected version(s) (must be a supported version(s))
 - Affected file(s)
 - Issue(s) to cause this security issue
-- *\[Optional\]* Common Vulnerabilities and Exposures (CVE) Identifier (ID)
-- *\[Optional\]* Reference of this security issue
+- Common Vulnerabilities and Exposures (CVE) identification number(s)
+- Reference of this security issue
