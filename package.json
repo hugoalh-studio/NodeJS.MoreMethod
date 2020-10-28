@@ -4,8 +4,8 @@
 	"description": "A library/module to provide more method.",
 	"keywords": [
 		"nodejs",
-		"more",
-		"method"
+		"method",
+		"more"
 	],
 	"homepage": "https://github.com/hugoalh-studio/NodeJS.MoreMethod#readme",
 	"bugs": {
@@ -22,8 +22,8 @@
 		"@hugoalh/advanced-determine": "^3.4.1"
 	},
 	"engines": {
-		"node": ">= 10.0.0",
-		"npm": ">= 6.0.0"
+		"node": ">= 10.13.0",
+		"npm": ">= 6.4.1"
 	},
 	"private": false
 }

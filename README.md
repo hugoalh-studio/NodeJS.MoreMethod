@@ -70,7 +70,7 @@ A NodeJS library/module to provide more method.
 
 ### Getting Started (Excerpt)
 
-NodeJS (>= v10) & NPM (>= v6):
+NodeJS (>= v10.13) & NPM (>= v6.4.1):
 
 ```powershell
 > npm install @hugoalh/more-method
@@ -81,10 +81,10 @@ NodeJS (>= v10) & NPM (>= v6):
 - `concatenate(...items)`
 - `ensurePrefix(item, prefix)`
 - `ensureSuffix(item, suffix)`
-- `flatten(item, maximumDepth?)`
+- `flatten(item, option?)`
 - `removeDuplicate(item)`
 - `reverse(item)`
-- *`split(item, option?)` (Coming soon)*
+- `split(item, option?)`
 - `toCapitalCase(item)`
 - `toDashCase(item)`
 - `toDromedaryCase(item)`
