@@ -70,7 +70,7 @@ A NodeJS library/module to provide more method.
 
 ### Getting Started (Excerpt)
 
-NodeJS (>= v10.13) & NPM (>= v6.4.1):
+NodeJS (>= v14.15) & NPM (>= v6.14.8):
 
 ```powershell
 > npm install @hugoalh/more-method
