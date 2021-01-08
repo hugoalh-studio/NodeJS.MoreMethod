@@ -72,7 +72,7 @@ A NodeJS library/module to provide more method.
 
 NodeJS (>= v14.15) & NPM (>= v6.14.8):
 
-```powershell
+```sh
 > npm install @hugoalh/more-method
 ```
 
