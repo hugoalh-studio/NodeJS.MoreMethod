@@ -3,7 +3,7 @@
 # avatar_url:
 tts: false
 embeds:
-  - title: "[NodeJS] More Method"
+  - title: "More Method (NodeJS Edition)"
     description: "Version %payload.release.name% (%payload.release.tag_name%) is released and available on:"
     # url:
     color: "2,110,0"
@@ -21,12 +21,12 @@ embeds:
       # url:
       # icon_url:
     fields:
-      - name: "GitHub Repository Release (& Changelog)"
+      - name: "GitHub (& Changelog)"
         value: "%payload.release.html_url%"
         inline: false
-      - name: "NPM (NodeJS Package Manager)"
+      - name: "NPM"
         value: "https://www.npmjs.com/package/@hugoalh/more-method"
         inline: false
-      - name: "GitHub Repository"
-        value: "https://github.com/hugoalh-studio/NodeJS.MoreMethod"
+      - name: "Repository"
+        value: "https://github.com/hugoalh-studio/more-method-nodejs"
         inline: false

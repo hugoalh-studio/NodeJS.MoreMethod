@@ -1,14 +1,12 @@
 ---
 name: "Bug Report"
 about: "Report a bug."
-title: ""
-labels: "bug🐛,unconfirm📋"
-assignees: ""
+labels: "🐛bug,🔵unconfirm"
 ---
 > ### Suggested Content List
 >
 > - **Describe:** What the bug is?
-> - **Version:** Must be a supported version(s) listed in the "[Security Policy](https://github.com/hugoalh-studio/NodeJS.MoreMethod/security/policy)".
+> - **Version:** Must be a supported version(s) listed in the "[Security Policy](https://github.com/hugoalh-studio/more-method-nodejs/security/policy)".
 > - **To Reproduce:** If this bug can be reproduce, please list your step(s)!
 > - **Expected Behavior:** What thing(s) should expected to happen?
 >

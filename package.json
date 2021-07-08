@@ -1,22 +1,21 @@
 {
 	"name": "@hugoalh/more-method",
 	"version": "1.0.0",
-	"description": "A library/module to provide more method.",
+	"description": "A module to provide more method.",
 	"keywords": [
-		"nodejs",
 		"method",
 		"more"
 	],
-	"homepage": "https://github.com/hugoalh-studio/NodeJS.MoreMethod#readme",
+	"homepage": "https://github.com/hugoalh-studio/more-method-nodejs#readme",
 	"bugs": {
-		"url": "https://github.com/hugoalh-studio/NodeJS.MoreMethod/issues"
+		"url": "https://github.com/hugoalh-studio/more-method-nodejs/issues"
 	},
 	"license": "MIT",
 	"author": "hugoalh",
 	"main": "lib/main.js",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/hugoalh-studio/NodeJS.MoreMethod.git"
+		"url": "git+https://github.com/hugoalh-studio/more-method-nodejs.git"
 	},
 	"dependencies": {
 		"@hugoalh/advanced-determine": "^5.0.1"
