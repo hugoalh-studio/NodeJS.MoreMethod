@@ -12,7 +12,7 @@
 
 | **Version** | **Targeted NodeJS Version** | **Support** |
 |:-:|:-:|:-:|
-| v1.0.X | v14.15.0 | L |
+| v0.1.X | v14.15.0 | L |
 
 ## Report Vulnerability
 

@@ -40,6 +40,7 @@ npm install @hugoalh/more-method
 
 ### API (Excerpt)
 
+- `changeCase(item, option?)`
 - `concatenate(...items)`
 - `ensurePrefix(item, prefix)`
 - `ensureSuffix(item, suffix)`
@@ -47,9 +48,6 @@ npm install @hugoalh/more-method
 - `removeDuplicate(item)`
 - `reverse(item)`
 - `split(item, option?)`
-- `toCapitalCase(item)`
-- `toDashCase(item)`
-- `toDromedaryCase(item)`
 - `toObject(item)`
 
 ### Example (Excerpt)
