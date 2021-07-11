@@ -21,11 +21,7 @@ body:
       label: "版本"
       description: "甚麼版本受到影響？必須是「安全政策（英文）」（/.github/SECURITY.md）中列出的受支持版本。"
       options:
-        - label: "5.0.2"
-          required: false
-        - label: "5.0.1"
-          required: false
-        - label: "5.0.0"
+        - label: "0.1.0"
           required: false
     validations:
       required: false

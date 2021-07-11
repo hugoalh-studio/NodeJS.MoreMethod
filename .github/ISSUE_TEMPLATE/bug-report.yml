@@ -21,11 +21,7 @@ body:
       label: "Version"
       description: "What version(s) is affected? Must be a supported version(s) listed in the \"Security Policy\" (/.github/SECURITY.md)."
       options:
-        - label: "5.0.2"
-          required: false
-        - label: "5.0.1"
-          required: false
-        - label: "5.0.0"
+        - label: "0.1.0"
           required: false
     validations:
       required: false
