@@ -42,12 +42,13 @@ npm install @hugoalh/more-method
 
 - `changeCase(item, option?)`
 - `concatenate(...items)`
+- `divide(item, piece, option?)`
 - `ensurePrefix(item, prefix)`
 - `ensureSuffix(item, suffix)`
 - `flatten(item, option?)`
+- `removeANSIEscapeCode(item)`
 - `removeDuplicate(item)`
-- `reverse(item)`
-- `split(item, option?)`
+- `reverseIndex(item)`
 - `toObject(item)`
 
 ### Example (Excerpt)
@@ -57,11 +58,9 @@ const moreMethod = require("@hugoalh/more-method");
 
 let array1 = ["one", "two", "three"];
 let array2 = ["one", "two", "three"];
-console.log(array1);// ["one", "two", "three"]
 console.log(Array.reverse(array1));// ["three", "two", "one"]
 console.log(array1);// ["three", "two", "one"]
-console.log(array2);// ["one", "two", "three"]
-console.log(moreMethod.reverse(array2));// ["three", "two", "one"]
+console.log(moreMethod.reverseIndex(array2));// ["three", "two", "one"]
 console.log(array2);// ["one", "two", "three"]
 let array3 = moreMethod.concatenate(array1, array2);
 console.log(array3);// ["three", "two", "one", "one", "two", "three"]
